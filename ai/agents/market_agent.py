@@ -2,4 +2,13 @@ agents/market_agent.py
 agents/strategy_agent.py
 agents/risk_agent.py
 agents/coordinator.py
-پھر:
+analysis/market_analysis.py
+analysis/technical_analysis.py
+analysis/sentiment_analysis.py
+decision/signal_engine.py
+decision/decision_engine.py
+prompts/market_prompt.txt
+prompts/strategy_prompt.txt
+prompts/risk_prompt.txt
+models/README.md
+README.md
